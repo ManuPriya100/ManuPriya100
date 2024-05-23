@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ManuPriya100
-- 👀 I’m interested in eating and sleeping
-- 🌱 I’m currently learning software Development
 - 📫 How to reach me manupirya101112002@gmail.com
 
 <!---
